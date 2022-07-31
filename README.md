@@ -1,2 +1,2 @@
 # Bootstrap_calisma
-<img class="text-center" src="https://github.com/Ertanatbas/Bootstrap_calisma/blob/main/6oi90r.gif"></img>
+<img class="text-align-center" src="https://github.com/Ertanatbas/Bootstrap_calisma/blob/main/6oi9j4.gif"></img>
